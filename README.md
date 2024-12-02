@@ -1,6 +1,9 @@
-## about
+## About
 
-todo list with node
+Tämän on tarkoitus olla tehtävälista.
+
+Opin tässä projektissa:
+- expressin käyttöä
 
 **backendin käynnistys:**
     
