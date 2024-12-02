@@ -1,3 +1,7 @@
+## about
+
+todo list with node
+
 **backendin käynnistys:**
     
     npm start
